@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/architecture-diagram.png" width="900">
+</p>
+
 🚀 3-Tier Architecture on AWS using Terraform
 
 This project provisions a production-ready 3-tier architecture on AWS using Terraform modules for better reusability, scalability, and maintainability.
